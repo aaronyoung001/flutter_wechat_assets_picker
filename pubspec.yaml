@@ -16,6 +16,6 @@ dependencies:
   provider: ^5.0.0
   video_player:
     git:
-      url: https://github.com/aaronyoung001/plugins.git
+      url: https://github.com/flutter/plugins.git
       path: packages/video_player/video_player
       ref: master
