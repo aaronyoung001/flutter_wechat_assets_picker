@@ -18,4 +18,4 @@ dependencies:
     git:
       url: https://github.com/aaronyoung001/plugins.git
       path: packages/video_player/video_player
-      ref: master
+      ref: v233
